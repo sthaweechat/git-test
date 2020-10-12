@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4afb1c7c-b288-438e-8587-3f474e5ebb12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/text.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +25,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602498354113</updated>
-      <workItem from="1602498355185" duration="30000" />
+      <workItem from="1602498355185" duration="1018000" />
     </task>
     <servers />
   </component>
@@ -49,5 +52,9 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="541" y="296" key="#com.intellij.fileTypes.FileTypeChooser/1680.23.1920.1057/0.23.1680.960@0.23.1680.960" timestamp="1602498372065" />
+    <state x="340" y="180" key="Vcs.Push.Dialog.v2" timestamp="1602499205654">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="340" y="180" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/0.23.1680.960@0.23.1680.960" timestamp="1602499205654" />
   </component>
 </project>
