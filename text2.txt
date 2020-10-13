@@ -3,3 +3,4 @@ develop
 =======
 feature-2
 >>>>>>> feature-2
+add line from feature-2
