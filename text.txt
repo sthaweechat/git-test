@@ -4,6 +4,6 @@ test2
 
 hello 
 
-code with feature-2
+code with feature-1
 
 some people
