@@ -5,6 +5,5 @@ test2
 feature-2
 
 code with feature-1
-222222222
 
 some people
